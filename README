@@ -1,7 +1,7 @@
 Blackjack
 
 
-
+```shell
 "Blackjack, by Al Sweigart al@inventwithpython.com
 
     Rules:
@@ -26,8 +26,9 @@ DEALER: ???
 |###| | ♥ |
 |_##| |__2|
 "
+```
 
-Excerpt From
+Source from
 The Big Book of Small Python Projects
 Al Sweigart
 This material may be protected by copyright.
